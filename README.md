@@ -1,2 +1,3 @@
 # esbundle
-A bundler for the amazing ESBuild
+
+A bundler for the amazing esbuild
